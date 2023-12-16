@@ -1,0 +1,130 @@
+.header{
+    background-color: #f5ba13;
+   color:whitesmoke;
+    border:0px;
+    margin:0px;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    padding-left:1%;
+    width: 100%;
+    box-shadow: 1px 4px;
+}
+input,textarea{
+    font-family: "McLaren", cursive;
+}
+html{
+    font-family: "McLaren", cursive;
+    font-weight: 200;
+}
+.app{
+    position: reltive;
+}
+body{
+    margin:0px 0px 0px 0px;
+    background-color:whitesmoke;
+}
+footer{
+    position: fixed;
+    bottom:5px;
+    text-align: center;
+    left:0%;
+    right: 0%;
+    
+
+}
+footer p{
+    text-align: center;
+    color:grey;
+    
+}
+.note{
+    background-color:white;
+    display: inline-block;
+    position: relative;
+    width: 250px;
+    border-radius: 5%;
+    margin-left:20px;
+    margin-right: 5%;
+    text-align:left;
+    margin-top: 3%;
+    
+    padding:3px;
+    padding-bottom: 40px;
+    padding-left: 8px;
+    word-wrap: break-word;
+}
+.inputarea{
+    position: relative;
+        height:170px;
+        width:400px;
+    background-color: white;
+    border-radius: 10px;
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+
+}
+.del{
+    margin:5px;
+    position: absolute;
+    background-color: #f5ba13;
+    width: 50px;
+    height:50px;
+    color:white;
+    font-size: 0.8rem;
+    border-color: white;
+    box-shadow: 2px 2px;
+    right: 0px;
+    bottom:0px;
+    
+    border-radius: 100%;
+    
+
+}
+.inputarea button{
+    background-color: #f5ba13;
+   width: 60px;
+   height:60px;
+   color:white;
+   font-size: 1.2rem;
+   border-color: white;
+   box-shadow: 2px 2px;
+   
+   border-radius: 100%;
+   position: absolute;
+   right: 20px;
+
+   bottom: 20px;
+
+}
+.txtfield{
+    display: block;
+    border:none;
+    height: 30px;
+     margin-bottom: 20px;
+     width: 100%;
+     outline:none;
+     font-size: 1.3rem;
+     
+    
+}
+.txtarea{
+    display: block;
+    border:none;
+    outline:none;
+    margin-bottom: 20px;
+     width: 100%;
+    font-size: 1.3rem;
+    resize:none;
+    
+}
+.note p{
+    margin-top:0px;
+    margin-bottom: 1px;
+    font-weight:lighter;
+    font-size: 1.2em;
+    padding-bottom: 7px;
+    
+
+}
